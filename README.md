@@ -1,6 +1,8 @@
 # 2a_Stop_and_Wait_Protocol
 ## AIM 
 To write a python program to perform stop and wait protocol
+## Date: 05.02.2026
+## Roll.no: 212225230084
 ## ALGORITHM
 1. Start the program.
 2. Get the frame size from the user
