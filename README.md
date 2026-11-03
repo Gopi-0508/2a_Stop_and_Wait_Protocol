@@ -63,11 +63,13 @@ c.close()
 
 server.py:
 
-<img width="1122" height="955" alt="Screenshot 2026-02-03 102320" src="https://github.com/user-attachments/assets/f76922dd-45e2-414e-a047-e18311797e1c" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a006e573-cbe5-4a9a-aa2c-09c6ee6a2473" />
+
 
 client.py:
 
-<img width="979" height="971" alt="Screenshot 2026-02-03 102235" src="https://github.com/user-attachments/assets/af3bf02e-7bba-4d3a-99cc-326d79496d81" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/f2ca2b59-6dd8-4e43-b237-19c3577f0db7" />
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
